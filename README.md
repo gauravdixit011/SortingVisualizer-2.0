@@ -117,7 +117,7 @@ speed [1-10] - Set animation speed
 ## 📁 Project Structure
 
 ```
-sorting-visualizer/
+SortingVisualizer-2.0/
 │
 ├── index.html              # Main application file
 ├── README.md               # Project documentation
@@ -188,10 +188,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Gaurav Dixit**
 
-- GitHub: [@gauravdixit](https://github.com/gauravdixit)
-- LinkedIn: [Gaurav Dixit](https://linkedin.com/in/gauravdixit)
-- Portfolio: [gauravdixit.dev](https://gauravdixit.dev) <!-- Replace with your actual portfolio -->
-- Email: gaurav.dixit@example.com <!-- Replace with your actual email -->
+- GitHub: [@gauravdixit011](https://github.com/gauravdixit011)
+- LinkedIn: [Gaurav Dixit](https://linkedin.com/in/gauravdixit11/)
+- Email: gauravdixit1110@gmail.com 
 
 ### 🙏 Acknowledgments
 
